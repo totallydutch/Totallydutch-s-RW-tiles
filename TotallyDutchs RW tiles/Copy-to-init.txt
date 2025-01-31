@@ -15,3 +15,6 @@
 [#nm:"tunnel light", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,8,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["effectColorA"]]
 [#nm:"clamp", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,6,2], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"big box", #sz:point(3,3), #specs:[1,1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[2,1,2,3,2], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+
+-["Dutchs modifyed tiles", color(150, 150, 150)]
+[#nm:"Pressure Tube Segment B", #sz:point(1,5), #specs:[1,-1,-1,-1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
