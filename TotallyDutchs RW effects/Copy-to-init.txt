@@ -1,3 +1,5 @@
 -Dutchs effects
 [#nm:"Scugplant", #tp:"individual", #vars:5, #pxlSz:point(20,40), #randomFlip:1, #pickColor:0, #hasGrad:0, #szVar:[1, 1], #rootAmt:5]
 [#nm:"Spine Growers", #tp:"grower", #vars:8, #pxlSz:point(15,40), #pickColor:1, #hasGrad:0, #randomFlip:1, #initRotVar:60, #segmentRotVar:60, #segmentRotPull:0.60, #segmentMoveAmt:30]
+[#nm:"Lickmaw", #tp:"standardPlant", #vars:8, #pxlSz:point(25,60), #randomFlip:1, #pickColor:1, #hasGrad:1, #placeAmt:6, #szVar:[0.8, 1.2], #strengthAffectSize:1, #rootAmt:6]
+[#nm:"Clingerbulb", #tp:"clinger", #vars:10, #pxlSz:point(20,60), #pickColor:1, #hasGrad:1, #randomFlip:1, #initRotVar:20, #segmentRotVar:10, #segmentRotPull:0.40, #segmentMoveAmt:1, #tipVars:2, #tipGraf:"clingbulb", #tipPxlSz:point(50,50), #tipMoveAmt:2]
